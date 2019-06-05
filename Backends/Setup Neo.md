@@ -1,9 +1,9 @@
-# Set up Guide
+# Setup Neo
 
 This document will teach you how to setup your development environment, Cloud Foundry landscape and how to deploy and alter the used Java Backend.
 
 * [Set up Neo for Mobile Services](#setupneo)
-* [Clone the Fiori-for-iOS-Roadshow-19 repository](#clonerepo)
+* [Clone the cloud-mobile-sample-servers repository](#clonerepo)
 * [Deploy the Java Backend to Neo](#deployapp)
 
 <a name="setupneo"/>
@@ -15,7 +15,9 @@ Please complete the following tutorials in the [Set Up the SAP Cloud Platform SD
 1. [Enable SAP Cloud Platform Mobile Services](https://developers.sap.com/tutorials/fiori-ios-hcpms-setup.html)
 2. [Configure Mobile Services in iOS Assistant](https://developers.sap.com/tutorials/fiori-ios-scpms-configure-ms-assistant.html)
 
-## Clone the Fiori-for-iOS-Roadshow-19 repository
+<a name="clonerepo"/>
+
+## Clone the cloud-mobile-sample-servers repository
 In order to get the sample backends you should clone the repository to your machine. Why cloning the repository instead of downloading it as ZIP? - If you clone the repository rather then just downloading it as ZIP gives you the advantage that you can pull future changes directly without re-downloading the repository as ZIP.
 
 > If you don't have Git installed on your MacBook please follow the instructions on the official [Git Homepage](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git).
